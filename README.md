@@ -10,7 +10,7 @@ This is a web app for contract farming, allowing food companies to connect with 
 
 # Setup
 To run the app locally, follow these steps:
-1. Clone the repository: git clone https://github.com/ShreyasPatil-13/mega-project.git
+1. Clone the repository: git clone https://github.com/pranjalis07/FARMX.git
 2. Install dependencies : npm install
 4. Start the server: npm start
 6. Open the app in your browser at http://localhost:3000/
